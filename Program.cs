@@ -1,6 +1,6 @@
 ﻿namespace DexOlympy
 {
-    internal class Program
+    internal class Zad1
     {
         static void Main()
         {
